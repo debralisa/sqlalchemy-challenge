@@ -2,11 +2,11 @@
 
 ## Background
 
-### Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
+Congratulations! You've decided to treat yourself to a long holiday vacation in Honolulu, Hawaii. To help with your trip planning, you decide to do a climate analysis about the area. The following sections outline the steps that you need to take to accomplish this task.
 
 ## Part 1: Analyze and Explore the Climate Data
 
-### Project work began by using Python and SQLAlchemy to do a basic climate analysis and data exploration of the supplied climate database. Instructions were to use SQLAlchemy ORM queries, Pandas, and Matplotlib.  
+Project work began by using Python and SQLAlchemy to do a basic climate analysis and data exploration of the supplied climate database. Instructions were to use SQLAlchemy ORM queries, Pandas, and Matplotlib.  
 
 1. Precipitation analysis included determining the most recent date in the given dataset and gathering the prior 12 months of precipitation data through queries.  The query results were put into a dataframe and the datafram plot method was used to plot the results. Finishing the analysis by printing out the summary statistics for the precipitation data using Pandas.
 
@@ -20,7 +20,7 @@
 
 ## Part 2: Design Your Climate App
 
-### The challenge was to design a Flask API based on the queries that were developed in Part 1.
+The challenge was to design a Flask API based on the queries that were developed in Part 1.
 
 ### 5 Routes in the Flask API (app.py)
 
