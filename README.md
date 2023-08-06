@@ -10,7 +10,8 @@ Project work began by using Python and SQLAlchemy to do a basic climate analysis
 
 1. Precipitation analysis included determining the most recent date in the given dataset and gathering the prior 12 months of precipitation data through queries.  The query results were put into a dataframe and the datafram plot method was used to plot the results. Finishing the analysis by printing out the summary statistics for the precipitation data using Pandas.
 
-2. Station analysis 
+2. Station analysis
+    
    A. Started with running a query to calculate the total number of weather stations.  
    B. Second query was created to determine the most active weather stations.  
    C. Third query was created to produce the TMIN, TAVG, and TMAX TOBS (time of observation bias)of the most active weather station
