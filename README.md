@@ -12,11 +12,11 @@ Project work began by using Python and SQLAlchemy to do a basic climate analysis
 
 2. Station analysis 
 
-  A. Started with running a query to calculate the total number of weather stations.  
-  B. Second query was created to determine the most active weather stations.  
-  C. Third query was created to produce the TMIN, TAVG, and TMAX TOBS (time of observation bias)of the most active weather station
+  a. Started with running a query to calculate the total number of weather stations.  
+  b. Second query was created to determine the most active weather stations.  
+  c. Third query was created to produce the TMIN, TAVG, and TMAX TOBS (time of observation bias)of the most active weather station
   determined in the second query.
-  D. Final query collect the prior 12 months of temperature observation (TOBS) data. The results were then p0lotted as a histogram with bins=12.
+  c. Final query collect the prior 12 months of temperature observation (TOBS) data. The results were then p0lotted as a histogram with bins=12.
 
 ## Part 2: Design Your Climate App
 
